@@ -1,7 +1,7 @@
 """
 File: addingnumbers.py
 Author: j.jahed@student.rug.nl
-Description: This program is the imp,enentation of an arithemtic series in which the user inputs the first and last digit with k being the difference between each digit.
+Description: This program is the implenentation of an arithmetic series in which the user inputs the first and last digit with k being the difference between each digit.
 The program calculates the sum of n to m in steps of size k.
 """
 
