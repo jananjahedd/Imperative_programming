@@ -1,2 +1,2 @@
-# Imperative programming
+# Imperative programming - Artificial Intelligence bachelor's RUG
 All the codes that I have done in the imperative programming course and assignments
